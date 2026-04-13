@@ -1,7 +1,6 @@
 # Hi, I'm Fahad Hassan 👋
-Final Year CS Student • Data Engineer & Analytics Enthusiast • Building data-driven solutions
-
-🔭 I'm currently working on **ClassPulse — Online Student Engagement Analyzer (Data & Analytics)**  
+CS Graduate • Data Engineer & Analytics Enthusiast • Building data-driven solutions
+  
 🌱 I'm currently learning **Python, SQL, ETL Pipelines, and Data Engineering fundamentals**  
 👯 I'm looking to collaborate on **open-source data engineering and analytics projects**  
 🤔 I'm looking for help with **optimizing data pipelines and analytics workflows**  
